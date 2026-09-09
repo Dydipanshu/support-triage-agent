@@ -1,0 +1,587 @@
+{
+  "n": 220,
+  "systems": {
+    "trivial": {
+      "intent": {
+        "accuracy": 0.17727272727272728,
+        "macro_f1": 0.03346203346203346,
+        "weighted_f1": 0.05338715338715339,
+        "report": {
+          "praise_or_share": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 33.0
+          },
+          "flight_disruption": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 31.0
+          },
+          "booking_or_seat_change": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 32.0
+          },
+          "baggage_or_lost_item": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 16.0
+          },
+          "loyalty_or_account": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 16.0
+          },
+          "policy_or_info_question": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 22.0
+          },
+          "service_complaint_or_feedback": {
+            "precision": 0.17727272727272728,
+            "recall": 1.0,
+            "f1-score": 0.30115830115830117,
+            "support": 39.0
+          },
+          "support_access_issue": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 16.0
+          },
+          "other": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 15.0
+          },
+          "accuracy": 0.17727272727272728,
+          "macro avg": {
+            "precision": 0.0196969696969697,
+            "recall": 0.1111111111111111,
+            "f1-score": 0.03346203346203346,
+            "support": 220.0
+          },
+          "weighted avg": {
+            "precision": 0.03142561983471075,
+            "recall": 0.17727272727272728,
+            "f1-score": 0.05338715338715339,
+            "support": 220.0
+          }
+        },
+        "confusion": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            33,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            31,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            32,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            16,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            16,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            22,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            39,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            16,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            15,
+            0,
+            0
+          ]
+        ]
+      },
+      "escalation": {
+        "escalate_precision": 0.2318181818181818,
+        "escalate_recall": 1.0,
+        "escalate_f1": 0.3763837638376384,
+        "auto_rate": 0.0,
+        "unsafe_auto_count": 0,
+        "unsafe_auto_rate": 0.0
+      },
+      "judge": {
+        "grounded": 2.327272727272727,
+        "correct_next_step": 1.9,
+        "safe": 2.9863636363636363,
+        "tone": 2.3181818181818183,
+        "overall": 1.9772727272727273,
+        "share_overall_3": 0.23636363636363636,
+        "share_overall_1": 0.2590909090909091
+      }
+    },
+    "simple": {
+      "intent": {
+        "accuracy": 0.5818181818181818,
+        "macro_f1": 0.5284046838645104,
+        "weighted_f1": 0.568136740780441,
+        "report": {
+          "praise_or_share": {
+            "precision": 0.5869565217391305,
+            "recall": 0.8181818181818182,
+            "f1-score": 0.6835443037974683,
+            "support": 33.0
+          },
+          "flight_disruption": {
+            "precision": 0.9545454545454546,
+            "recall": 0.6774193548387096,
+            "f1-score": 0.7924528301886793,
+            "support": 31.0
+          },
+          "booking_or_seat_change": {
+            "precision": 0.6923076923076923,
+            "recall": 0.5625,
+            "f1-score": 0.6206896551724138,
+            "support": 32.0
+          },
+          "baggage_or_lost_item": {
+            "precision": 0.7777777777777778,
+            "recall": 0.4375,
+            "f1-score": 0.56,
+            "support": 16.0
+          },
+          "loyalty_or_account": {
+            "precision": 0.7272727272727273,
+            "recall": 0.5,
+            "f1-score": 0.5925925925925926,
+            "support": 16.0
+          },
+          "policy_or_info_question": {
+            "precision": 0.35714285714285715,
+            "recall": 0.45454545454545453,
+            "f1-score": 0.4,
+            "support": 22.0
+          },
+          "service_complaint_or_feedback": {
+            "precision": 0.5476190476190477,
+            "recall": 0.5897435897435898,
+            "f1-score": 0.5679012345679012,
+            "support": 39.0
+          },
+          "support_access_issue": {
+            "precision": 0.3888888888888889,
+            "recall": 0.875,
+            "f1-score": 0.5384615384615384,
+            "support": 16.0
+          },
+          "other": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 15.0
+          },
+          "accuracy": 0.5818181818181818,
+          "macro avg": {
+            "precision": 0.5591678852548418,
+            "recall": 0.546098913034397,
+            "f1-score": 0.5284046838645104,
+            "support": 220.0
+          },
+          "weighted avg": {
+            "precision": 0.593780165815739,
+            "recall": 0.5818181818181818,
+            "f1-score": 0.568136740780441,
+            "support": 220.0
+          }
+        },
+        "confusion": [
+          [
+            27,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            3,
+            0
+          ],
+          [
+            1,
+            21,
+            0,
+            0,
+            0,
+            3,
+            4,
+            2,
+            0
+          ],
+          [
+            1,
+            0,
+            18,
+            0,
+            0,
+            2,
+            4,
+            7,
+            0
+          ],
+          [
+            2,
+            0,
+            0,
+            7,
+            0,
+            1,
+            5,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            2,
+            0,
+            8,
+            0,
+            1,
+            5,
+            0
+          ],
+          [
+            4,
+            0,
+            2,
+            2,
+            1,
+            10,
+            2,
+            1,
+            0
+          ],
+          [
+            4,
+            1,
+            3,
+            0,
+            1,
+            5,
+            23,
+            2,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            14,
+            0
+          ],
+          [
+            7,
+            0,
+            1,
+            0,
+            0,
+            4,
+            2,
+            1,
+            0
+          ]
+        ]
+      },
+      "escalation": {
+        "escalate_precision": 0.53125,
+        "escalate_recall": 0.3333333333333333,
+        "escalate_f1": 0.40963855421686746,
+        "auto_rate": 0.8545454545454545,
+        "unsafe_auto_count": 34,
+        "unsafe_auto_rate": 0.6666666666666666
+      },
+      "judge": {
+        "grounded": 1.7454545454545454,
+        "correct_next_step": 1.5954545454545455,
+        "safe": 2.340909090909091,
+        "tone": 1.7,
+        "overall": 1.5227272727272727,
+        "share_overall_3": 0.07727272727272727,
+        "share_overall_1": 0.5545454545454546
+      }
+    },
+    "agent": {
+      "intent": {
+        "accuracy": 0.8409090909090909,
+        "macro_f1": 0.8389116972896943,
+        "weighted_f1": 0.8392470044752242,
+        "report": {
+          "praise_or_share": {
+            "precision": 0.9696969696969697,
+            "recall": 0.9696969696969697,
+            "f1-score": 0.9696969696969697,
+            "support": 33.0
+          },
+          "flight_disruption": {
+            "precision": 0.7631578947368421,
+            "recall": 0.9354838709677419,
+            "f1-score": 0.8405797101449275,
+            "support": 31.0
+          },
+          "booking_or_seat_change": {
+            "precision": 0.8928571428571429,
+            "recall": 0.78125,
+            "f1-score": 0.8333333333333334,
+            "support": 32.0
+          },
+          "baggage_or_lost_item": {
+            "precision": 1.0,
+            "recall": 0.9375,
+            "f1-score": 0.967741935483871,
+            "support": 16.0
+          },
+          "loyalty_or_account": {
+            "precision": 0.7647058823529411,
+            "recall": 0.8125,
+            "f1-score": 0.7878787878787878,
+            "support": 16.0
+          },
+          "policy_or_info_question": {
+            "precision": 0.75,
+            "recall": 0.9545454545454546,
+            "f1-score": 0.84,
+            "support": 22.0
+          },
+          "service_complaint_or_feedback": {
+            "precision": 0.8928571428571429,
+            "recall": 0.6410256410256411,
+            "f1-score": 0.746268656716418,
+            "support": 39.0
+          },
+          "support_access_issue": {
+            "precision": 0.7222222222222222,
+            "recall": 0.8125,
+            "f1-score": 0.7647058823529411,
+            "support": 16.0
+          },
+          "other": {
+            "precision": 0.8,
+            "recall": 0.8,
+            "f1-score": 0.8,
+            "support": 15.0
+          },
+          "accuracy": 0.8409090909090909,
+          "macro avg": {
+            "precision": 0.8394996949692513,
+            "recall": 0.8493891040262008,
+            "f1-score": 0.8389116972896943,
+            "support": 220.0
+          },
+          "weighted avg": {
+            "precision": 0.8515527343313721,
+            "recall": 0.8409090909090909,
+            "f1-score": 0.8392470044752242,
+            "support": 220.0
+          }
+        },
+        "confusion": [
+          [
+            32,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            29,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            3,
+            25,
+            0,
+            2,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            15,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            13,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            21,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            5,
+            1,
+            0,
+            1,
+            2,
+            25,
+            3,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            1,
+            13,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            1,
+            0,
+            12
+          ]
+        ]
+      },
+      "escalation": {
+        "escalate_precision": 0.6486486486486487,
+        "escalate_recall": 0.9411764705882353,
+        "escalate_f1": 0.768,
+        "auto_rate": 0.6636363636363637,
+        "unsafe_auto_count": 3,
+        "unsafe_auto_rate": 0.058823529411764705
+      },
+      "judge": {
+        "grounded": 2.4727272727272727,
+        "correct_next_step": 2.409090909090909,
+        "safe": 2.6454545454545455,
+        "tone": 2.9045454545454548,
+        "overall": 2.3863636363636362,
+        "share_overall_3": 0.45454545454545453,
+        "share_overall_1": 0.06818181818181818
+      }
+    }
+  }
+}

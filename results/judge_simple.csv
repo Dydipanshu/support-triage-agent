@@ -1,0 +1,221 @@
+grounded,correct_next_step,safe,tone,overall,critique,thread_id
+2,1,3,2,2,The reply misidentifies a name correction and fee complaint as a rebooking request instead of offering to review the reservation details via DM.,1694172
+1,1,3,1,1,"“Enjoy!” ignores the service complaint and request for assistance, offering neither acknowledgment nor a path toward resolution.",2209753
+2,1,3,2,2,The reply ignores the clearly stated question and unnecessarily requests a confirmation number instead of providing the terminal information.,873724
+3,3,3,2,3,"The triple exclamation points and “totally awesome” are slightly overenthusiastic, but the reply is otherwise warm, safe, and appropriate for praise.",454759
+2,1,3,3,2,"The reply fails to direct the customer to file a Lost Item Report, which is the key next step for laptops left onboard.",2936954
+2,1,3,2,2,The reply misreads clear praise as a support request instead of thanking the customer and warmly acknowledging the compliment.,1059438
+2,1,1,2,2,The reply wrongly assumes the customer’s flight was canceled and asks for booking details instead of addressing the allegation about how passengers were rebooked.,1756459
+1,1,2,1,1,"The reply is defensive, uses the wrong customer name, and offers no actionable next step such as contacting a gate agent or flight attendant about reseating.",1138088
+1,1,1,1,1,"The reply invents a delay, uses the wrong name, and fails to answer the customer’s question about the vehicle.",246586
+1,1,2,1,1,"The reply is garbled, addresses the customer by the wrong name, and offers no troubleshooting or actionable next step for the changing fare.",685996
+1,1,3,2,1,The reply does not answer the bereavement-fare question or direct the customer to Delta Reservations for pricing.,2018522
+3,3,3,2,2,The reply is slightly less warm and direct than Delta’s usual phrasing and would be stronger asking for the confirmation number rather than the ticket number.,181046
+1,1,1,2,1,It gives an unqualified—and potentially unsafe—yes without checking the battery type or directing the customer to Delta’s restricted-items guidance.,2355492
+2,2,2,2,2,"The reply asks about the Baggage Office but does not clearly direct the customer to file a damaged-baggage claim, and vaguely promises to share the post with the Baggage team.",2429830
+1,1,3,2,1,It asks for an irrelevant confirmation or ticket number instead of directing the customer to submit legal name-change documentation through the appropriate account-update form.,2699440
+2,2,3,3,2,The reply is polite but misses Delta’s standard next step of asking the customer to follow and DM their confirmation number.,2857596
+3,2,3,2,2,"The reply is safe and upbeat but generic, missing the opportunity to engage with the customer's specific praise of the club's shrimp.",1016541
+3,3,2,2,2,"The reply uses an unsupported customer name (“Kelly”), which should be removed to avoid addressing the customer incorrectly.",907132
+3,3,2,3,2,"The reply is appropriate and warm, but it calls the customer “Rob” even though that name is not provided in the message.",2115483
+1,1,2,2,1,The reply addresses who earns MQDs when buying for another traveler instead of answering whether a Miles + Cash award ticket earns MQMs or MQDs.,757886
+1,1,3,2,1,The reply ignores the service complaint entirely and offers neither acknowledgment nor a useful path for submitting feedback.,2913983
+1,1,1,1,1,The reply mistakes a Wi-Fi availability complaint for a delay issue and offers no relevant information or next step.,159003
+1,1,1,1,1,The reply invents an unrelated ticket-name issue and airport check-in requirement instead of directing the customer to Online Support for website navigation assistance.,1697603
+1,1,3,1,1,The reply is vague and robotic and fails to direct the customer to DM their confirmation or ticket number for help changing the reservation.,507530
+2,1,3,2,2,"The reply vaguely says others can help but provides no link, DM request, or other actionable next step for the Wi-Fi complaint.",2325201
+1,1,2,1,1,"The reply addresses troops and calls the customer “Chuck” despite neither appearing in the complaint, while failing to apologize or direct the customer to DM their confirmation details for assistance.",603666
+1,1,3,2,1,The reply directs the customer to unrelated award-travel information instead of explaining that MQM earnings depend on fare class and linking to the appropriate earnings chart.,218435
+1,1,3,1,1,The reply ignores the lost jacket and provides no lost-item form or other path toward recovery.,1495336
+1,1,3,1,1,The reply ignores the customer’s disrupted itinerary and provides no apology or next step to help find an earlier flight.,2484632
+1,1,3,2,1,It asks for an irrelevant confirmation number instead of advising the customer to wait 24 hours and then use “Forgot Password.”,2450232
+1,1,3,1,1,The reply completely misreads clear praise as a complaint and unnecessarily asks for a confirmation number instead of warmly acknowledging the positive experience.,619802
+3,3,3,3,3,The reply is appropriate but could be slightly more helpful by inviting the customer to include their specific SkyMiles question in the DM.,462698
+3,3,3,3,3,"The reply is appropriate, though it could be more specifically tied to the upgrade and use a more distinctive Delta voice.",1214596
+1,1,3,1,1,"The cheerful thank-you ignores the complaint about a supervisor’s behavior and should instead acknowledge the concern, apologize once, and ask what happened.",263518
+3,3,3,2,2,The “On no!” typo makes the reply look unpolished; changing it to “Oh no!” would make it ready to post.,1204133
+2,2,2,2,2,"The reply does not acknowledge Beverly’s service or explain that the praise will be shared, and it adds an unsupported reference to Katherine’s continued loyalty.",492528
+2,1,3,2,2,The reply asks an irrelevant timing question instead of confirming that the reported scam will be forwarded to the appropriate desk.,1624128
+1,1,3,1,1,The reply addresses an unrelated question about service to San Luis Obispo instead of acknowledging and escalating the reported medical incident for review.,1518014
+2,2,2,2,2,The reply addresses the customer by the wrong name and offers only generic help instead of directing the service complaint to Delta’s feedback form.,597430
+1,1,2,2,1,The reply answers an unrelated question about complimentary alcoholic beverages instead of explaining whether Delta Comfort+ includes Sky Club access.,361487
+3,2,3,2,2,"The reply safely moves the conversation to DM, but it does not acknowledge the customer’s frustration or direct them to the relevant Cargo department.",1275223
+1,1,3,1,1,The reply appears copied from an unrelated oversized-baggage conversation and does not answer whether the customer must pay the checked-bag fee again.,411934
+1,1,1,2,1,The reply invents a photo and weather context instead of acknowledging the customer’s praise for the inflight entertainment.,1720280
+1,1,2,1,1,The reply ignores the direct-flight question and instead comments on a nonexistent NYC view.,2659125
+3,3,3,3,3,No significant weakness; it appropriately invites the customer to explain what help they need.,2697452
+3,3,3,2,2,"The answer is correct, but it addresses the customer as “Mattie” without basis and adds an unnecessary liquids rationale.",2283669
+1,1,3,1,1,"The reply completely misreads praise as a complaint, uses the wrong customer name, and unnecessarily asks for a DM instead of thanking the customer and recognizing Kris.",1534444
+1,1,2,1,1,The reply uses the wrong name and an unclear external link instead of directing the customer to an onboard agent who can troubleshoot the Wi-Fi.,202818
+2,2,3,1,2,The reply is safe and relevant but too generic and robotic for a celebratory customer post.,150816
+1,1,3,1,1,The reply completely misreads a positive lounge photo as an inflight entertainment problem and gives an irrelevant next step.,748845
+1,1,3,1,1,The reply addresses Virgin seating instead of cancellation compensation and fails to ask for a DM with the confirmation number so the circumstances can be reviewed.,304979
+2,2,3,2,2,"The reply is generic and fails to acknowledge or apologize for the onboard delay, while the unexplained <url> placeholder should be removed.",1837299
+1,1,1,2,1,The reply invents an equipment change and promises future Comfort+ availability instead of addressing the Basic Economy upgrade restriction or directing Tim to an appropriate support channel.,603656
+3,3,3,3,3,The reply is appropriate but generic and misses the opportunity to acknowledge Joy and Katie specifically.,523637
+1,1,1,1,1,"The reply completely misreads a service complaint as praise, adds unsupported flight details, and comes across as sarcastic rather than offering a path to resolution.",1783892
+1,1,1,2,1,It invents the customer’s name and asks for a confirmation number publicly instead of explaining that combined first and middle names are typically standard when spelled correctly.,2191665
+2,3,3,1,1,"It addresses the customer by the wrong name and contains multiple typos, making an otherwise appropriate DM request look careless and unprofessional.",2699394
+1,1,2,2,1,"The reply incorrectly assumes the issue is certificate availability rather than fare eligibility for miles or cash upgrades, so it does not address the customer’s actual problem.",2489295
+3,3,3,2,2,The reply is safe and appropriate but misses the opportunity to acknowledge the customer’s specific praise for Brent.,1188137
+1,1,1,1,1,"The reply is incoherent, gives potentially misleading mileage-credit information, and fails to direct the customer to DM the details needed for assistance.",2491223
+2,2,3,1,1,The reply uses the wrong name and unnecessarily asks for an account number before learning what the customer’s question is.,2294496
+1,1,3,1,1,The reply ignores the lost-baggage concern and fails to direct the customer to DM their file reference or confirmation number for assistance.,1049979
+2,2,3,2,2,The reply generically asks for a DM instead of directly acknowledging the broken touchscreen and offering to report it to Cabin Maintenance.,1222822
+1,1,2,1,1,The reply addresses mobile boarding passes instead of missing mileage credit and even uses the wrong customer name.,1460047
+1,1,3,2,1,It directs a customer who cannot check in to speak with an onboard flight crew—and uses the wrong name—instead of requesting a DM with the confirmation number for reservation review.,1370862
+3,3,1,2,2,"The reply uses the wrong customer name (“Curtis”), which should be removed or corrected before posting.",1387927
+2,2,2,1,1,The reply calls the customer by the wrong name and fails to acknowledge the phone-access issue before offering generic help.,1149948
+1,1,3,1,1,The reply mistakenly addresses flight delays instead of the customer’s complaint about high mileage redemption prices.,2584684
+3,3,3,2,2,"“Awesome view” is slightly mismatched to a heartwarming holiday photo, so a warmer reference to the picture or event would fit better.",569694
+1,1,2,1,1,The reply is awkward and falsely implies someone is already assisting the passenger instead of apologizing once and asking for the confirmation code via DM.,1283232
+3,3,2,2,2,"The biggest weakness is addressing the customer as David when no name was provided, which makes the reply feel careless and potentially misdirected.",2293285
+1,1,1,1,1,"The reply invents the customer’s name and a game, misstates the issue, and offers no next step for reviewing the same-day flight-change cost.",2203889
+1,1,2,1,1,"The reply addresses TSA PreCheck instead of the delayed suitcase, uses the wrong customer name, and fails to direct the customer to the Airport Baggage team.",121178
+1,1,3,1,1,The reply is completely unrelated to the customer’s urgent travel and standby question and offers no useful next step.,1082707
+1,1,3,2,1,"The reply ignores the father’s illness and ticket-credit question and provides no actionable next step, such as requesting the confirmation number by DM.",2801604
+2,2,3,2,2,The reply is safe but feels curt and fails to acknowledge or apologize for the customer's delay before offering help.,2738440
+2,1,3,2,2,"The reply acknowledges the complaint but offers no path to resolution, such as inviting the customer to DM details.",263493
+1,1,1,2,1,The reply addresses an invented flight delay instead of the customer’s question about the in-flight word game.,1548096
+1,1,1,1,1,"The reply addresses an unrelated mileage and ticketing issue, invents flight details, and fails to direct the customer to Delta’s comments form.",1518007
+2,1,2,2,2,"The reply acknowledges the delay but offers no actionable help, such as checking whether the customer needs assistance with a connection.",514184
+1,1,2,1,1,"The reply completely misreads praise as an injury complaint, invents an incident, and should instead simply thank the customer for flying with Delta.",1282484
+2,2,3,2,2,The reply jumps to requesting a confirmation number without acknowledging the reported app and website access issue or clarifying the error.,699727
+2,2,3,1,2,"“Oh my” feels dismissive, and the awkward instruction to DM a confirmation number “to this link” is unclear and not warmly on-brand.",2707881
+2,2,3,2,2,The reply unnecessarily asks for the flight number publicly instead of simply acknowledging the specific tarmac wait or directing the customer to DM if assistance is needed.,1657417
+1,1,1,1,1,"The reply addresses fare fluctuations instead of the Wi-Fi complaint, uses an unsupported customer name, and provides no path to resolution.",834490
+1,1,3,1,1,The reply ignores the customer’s safety concern and provides no actionable next step for changing or discussing their travel plans.,738099
+2,2,3,1,2,The reply is awkwardly truncated and should direct the customer to Delta’s damaged-baggage claim form rather than primarily to a phone number.,1913494
+2,1,3,2,2,The reply is polite but merely asks the customer to repeat their need instead of directing them to DM the confirmation or ticket numbers so the trips can be reviewed.,761310
+2,1,2,2,2,It fails to acknowledge the clearly stated website feedback and instead asks a redundant generic question while addressing the customer as an unsupported name.,1968208
+2,1,3,1,2,The reply is generic and robotic and fails to ask the customer to DM their confirmation code so an agent can address the onboard malfunctions.,2489825
+3,3,3,3,3,The reply is appropriate but could be slightly warmer by mentioning appreciation for the customer’s support or loyalty.,600940
+1,1,2,2,1,The reply misreads a delayed bag as an erroneous notification and asks for a SkyMiles number instead of directing the customer to the Baggage Services Office to file a delayed baggage claim.,1629108
+1,1,2,1,1,"The reply mistakes a routine baggage-transfer question for a missing-bag claim, addresses the wrong person, and sends the customer to an irrelevant baggage service process.",2223477
+1,1,3,1,1,"The reply fails to acknowledge or report the phishing concern and instead asks an irrelevant, confusing question while addressing the customer by the wrong name.",2037701
+2,3,3,2,2,The reply gives an appropriate DM next step but lacks a warm acknowledgment or brief apology for the repeated lengthy delays.,378572
+2,3,2,2,2,The unspecified link and redundant instructions make the reply less clear and grounded than simply asking the customer to follow and DM their confirmation number.,2496964
+2,3,1,2,2,"The biggest weakness is addressing the customer as Orlando, an unsupported and apparently incorrect name.",1093407
+3,2,3,3,2,"The reply appropriately requests a DM, but it misses the more immediate troubleshooting step of asking the customer to check in again.",1065067
+3,2,3,1,1,"The reply is scrambled, likely over 280 characters, and omits the key clarification that Delta has no policy regarding the national anthem.",1834786
+2,1,3,3,2,Asking for a confirmation number is unlikely to help with a pre-booking website crash; the reply should direct the customer to Online Support or offer help reviewing mileage options.,1461756
+2,1,3,1,1,It addresses the customer by the wrong name and sends them to a generic Customer Solutions link instead of app support.,903844
+2,2,3,1,1,"The reply is garbled and incomplete, obscuring the otherwise appropriate request to follow and DM a confirmation number.",865861
+2,3,1,2,2,"The reply invents the customer name “Matt,” creating an avoidable personalization error.",876490
+2,3,3,3,2,The main weakness is requesting the ticket number instead of the flight-delay date Delta uses to investigate this issue.,1708074
+1,1,3,1,1,The reply addresses emailing a receipt instead of checking aisle seats or birthday upgrade options for the customer’s flights.,2365247
+3,3,3,2,2,"The acknowledgment is appropriate and safe, but “Very nice” feels generic and slightly impersonal for Delta’s social voice.",1714904
+3,3,3,3,3,"The reply is appropriate and safe, though it could feel slightly warmer and more personalized by using the customer’s name.",2274987
+1,1,1,2,1,The reply addresses luggage instead of the customer’s inability to manage Virgin-operated/Delta-segment flights and invents a baggage assurance without requesting a DM or booking details.,727135
+3,3,3,2,2,The reply takes the right action but sounds stilted and over-apologetic with both “I regret to hear this” and “I’m so sorry.”,230703
+2,1,3,2,2,The reply unnecessarily suggests rebooking instead of acknowledging the delay and explaining that teams are working to get the flight underway.,8667
+2,3,2,2,2,The reply implies Delta has specific Black Friday deals rather than safely directing the customer to the current fare-deals page.,157095
+1,1,2,1,1,"The reply ignores the delayed bag, offers no actionable baggage-support next step, and makes an unfounded positive-outcome assurance.",1109610
+1,1,1,1,1,"The reply invents unrelated dates, routes, and availability while completely failing to address the customer’s seat-upgrade question.",2541289
+1,1,1,1,1,"The reply addresses an unrelated app issue, uses the wrong name, and makes an unsupported escalation claim instead of responding to the salad-dressing complaint.",658192
+1,1,2,1,1,The reply dismisses the complaint as out of Delta’s control without knowing the issue and fails to invite a DM with the confirmation code so support can investigate.,507532
+2,2,3,1,1,It addresses the customer by the wrong name and asks for a confirmation number without acknowledging the reported login outage.,773549
+2,1,3,2,1,"The reply does not answer the lost-item question or direct the customer to Delta’s lost-item form, and it may also use the wrong customer name.",565449
+2,1,1,1,1,It addresses the customer by the wrong name and fails to tell them to delete the publicly posted confirmation number before DMing their Traveler ID.,1725299
+1,1,3,1,1,"It addresses the customer by the wrong name and directs them to flight attendants, who are not the appropriate contact for a jammed jet bridge.",266134
+1,1,3,1,1,The reply ignores the urgent flight disruption and should acknowledge the issue and ask the customer to DM their confirmation number.,2258314
+3,3,2,2,2,"The biggest weakness is addressing the customer as Paula without basis, which makes the otherwise appropriate DM request feel careless.",2898351
+1,1,1,2,1,The reply fabricates reservation findings and specific check-in errors instead of simply acknowledging the DM and reviewing the customer’s case.,1365012
+1,1,3,1,1,The reply completely misreads praise as a complaint and offers an inappropriate apology instead of warmly acknowledging the customer’s positive Sky Club experience.,2588381
+3,2,2,2,2,"It correctly directs the customer to Delta’s baggage team, but unnecessarily assumes the claim concerns a damaged bag when the customer only identified it as a baggage case.",1786719
+1,1,3,2,1,"The reply ignores the customer’s loyalty/status question and provides no actionable next step, such as directing them to the SkyMiles Medallion Status Match Challenge.",1956335
+2,3,2,2,2,"The reply uses an unsupported customer name and promises escalation to Inflight Leadership, while also ending with the incomplete phrase “Thank you for flying.”",460307
+2,1,3,2,2,The reply unnecessarily asks for a DM instead of answering that Starpoints typically post within 4 to 6 weeks.,1855888
+2,1,3,2,2,“Enjoy your trip” misses the customer’s praise and may be inappropriate because the delayed trip appears to have already occurred.,2492785
+3,3,3,3,3,No significant weakness; it appropriately acknowledges the disruption and directs the customer to DM their confirmation details for assistance.,260066
+3,3,2,3,3,The only weakness is the unsupported claim that higher-than-normal call volume caused the callback delay.,2016513
+1,1,3,1,1,The reply ignores the customer’s complaints and provides no apology or DM-based next step toward resolution.,1791787
+3,3,3,2,2,"The DM request is appropriate, but the reply is abrupt and lacks a brief acknowledgment or reassurance.",1981060
+1,1,3,1,1,"The reply ignores the customer’s seat-assignment concern and offers neither an explanation nor a useful next step, making it feel dismissive.",2397431
+1,1,1,2,1,"It incorrectly asks for sensitive, irrelevant KTN and confirmation details instead of directing the customer to the Contact Us feedback form for a SkyMiles Experiences suggestion.",647238
+1,1,1,2,1,The reply makes an unsupported public promise to contact airport leadership without offering a realistic next step or useful update.,1817263
+2,1,1,2,1,"It addresses the customer by an unsupported name and offers no actionable help, such as assistance with rebooking.",2818215
+2,1,3,2,2,The reply does not address the customer’s request for an immediate flight-status update and instead offers rebooking help that may not be relevant.,1160758
+1,1,1,1,1,"The reply completely misreads a customer compliment, addresses the wrong person, and invents irrelevant embassy and check-in guidance instead of simply thanking them for the shout-out.",2934841
+3,3,3,3,3,The only minor weakness is that it could explicitly clarify that the link opens a private DM.,202848
+2,2,2,2,2,It misses the praise and addresses the customer by an unsupported name instead of simply thanking them.,2615558
+2,1,3,2,2,"The reply is polite but fails to offer a concrete next step, such as asking the customer to DM the relevant Sky Club renewal details so the issue can be investigated.",783747
+1,1,3,1,1,The reply mistakes a friendly song-identification question for a service complaint and provides no relevant answer or next step.,1007232
+3,3,3,2,2,The reply gives the right DM next step but lacks a brief acknowledgment or apology for the prolonged delay and poor communication.,1208703
+1,1,1,1,1,The reply addresses an unrelated Wi-Fi issue and provides dubious contact information instead of directing the customer to TSA PreCheck availability information.,2916753
+3,3,3,2,2,"The biggest weakness is addressing the customer as Joseph without support, which makes an otherwise appropriate reply feel careless.",1012436
+2,3,3,1,1,Addressing the customer as “Autist” is inappropriate and potentially offensive; simply ask how you can help.,791640
+1,1,3,1,1,The reply completely misreads the praise as a service problem and gives an irrelevant apology and next step.,416179
+3,3,3,2,3,The wording is slightly formal and less conversational than Delta’s typical brief Twitter tone.,1062465
+2,1,2,2,2,"The reply acknowledges the delay but offers no next step, such as asking how Delta can assist or inviting the customer to DM their confirmation number.",2586708
+3,2,3,3,2,"The DM request is safe and plausible, but it is generic and does not direct the customer to call back and request a Customer Service supervisor.",400958
+1,1,1,2,1,It mistakes Silver Medallion status for cardholder benefits and invents an airport fee-waiver process instead of asking the customer to delete the public confirmation number and resend it via DM.,878954
+2,2,1,2,2,It asks for the confirmation number without clearly directing the customer to send it privately via DM.,2637464
+1,1,1,2,1,The reply references the wrong flight number and provides no useful status or next step for DL1486.,1852671
+2,1,2,2,2,The reply is vague and does not offer the customer a practical way to access entertainment on this flight.,2871195
+1,1,2,2,1,The reply misreads an urgent bumped-flight problem as a technical error and should instead direct the customer to DM the confirmation number and details for assistance.,1377789
+1,1,1,1,1,"The reply invents an unrelated fare issue, is fragmented and overly long, and fails to ask how Delta can help with the customer’s unspecified complaint.",2546022
+3,3,2,3,2,"The only notable weakness is using the unverified name “Valerie,” which is unnecessary and may be incorrect.",2491190
+1,1,1,1,1,"It uses the wrong name, claims an unverified app issue was escalated, and fails to ask for the flight number or other details needed to check the disruption.",2807728
+2,2,2,2,2,The canned reply uses an unsupported name and promises to share feedback without inviting details or offering a path to address the underlying service issue.,2446588
+1,1,1,2,1,The reply invents an unrelated flight number and departure time instead of asking the customer to send their confirmation number privately so the seat issue can be reviewed.,2146389
+3,3,3,3,3,"The reply is appropriate, though offering direct help with tracking would be slightly more responsive to the customer’s specific situation.",1477670
+3,3,3,2,2,"The reply is warm and appropriate, but “excited to celebrate your flight with you” feels repetitive and less natural than Delta’s typically concise welcome.",840245
+3,2,3,2,2,"It asks for a DM but does not provide the standard 50 lb checked-bag limit, so the customer’s basic question remains unanswered.",1243311
+1,1,2,1,1,The reply invents customer approval and fails to ask how Delta can assist with the unclear message.,2579486
+2,2,3,2,2,"The reply is generic and does not offer an actionable next step for the cabin temperature or delay, such as alerting the onboard crew or requesting flight details via DM.",872880
+2,1,3,2,2,The reply acknowledges the delay but offers no actionable assistance or invitation to DM for help.,403149
+3,3,3,3,3,"The reply is slightly formal, but it appropriately directs the customer to Delta’s careers page.",2626039
+1,1,1,1,1,It addresses the customer by the wrong name and offers no actionable next step to review or follow up on the existing baggage claim.,1446679
+1,1,3,1,1,The reply dismisses the customer and provides no path to file a damaged-baggage claim with Delta’s airport baggage team.,1939709
+1,1,3,2,1,The reply incorrectly asks for a Delta confirmation number instead of directing the customer to American Express for help with the card bonus.,2249157
+3,3,3,1,1,"The reply is garbled and incomplete (“Skittles had!” and a cut-off ending), making it embarrassing to post despite giving the correct DM next step.",697618
+2,2,2,2,2,The reply is generic and promises internal escalation without directly addressing the request for nondairy creamer or offering a concrete feedback channel.,470992
+3,2,3,2,2,The reply is generic and should first ask whether the customer has filed a delayed-baggage claim or contacted the baggage service desk.,189524
+2,2,1,1,2,It uses the wrong customer name and asks for a confirmation number without clearly directing the customer to send it privately by DM.,1478134
+2,1,3,1,1,It addresses the customer by the wrong name and asks for a flight number/status update instead of directing them to DM their confirmation number for rebooking help.,62442
+3,3,3,3,3,The main weakness is that it says only “for assistance” rather than clarifying that GoGo Customer Care can address a refund request.,2136922
+1,1,3,1,1,The reply misreads a complaint as praise and fails to acknowledge the repeated bag-check delay or offer a useful next step.,2740944
+1,1,1,1,1,"It gives an unverified phone number and restrictive booking claim, addresses the customer by the wrong name, and should instead ask them to DM their Companion Certificate question.",2157769
+1,1,1,1,1,"It uses an unsupported customer name and asks for a SkyMiles number without directing the customer to DM, while failing to address whether the incomplete middle name is a problem.",1408400
+2,1,2,1,1,The reply uses the wrong name and addresses phone service and rebooking instead of the customer’s SkyMiles tier qualification issue.,2892665
+1,1,2,2,1,It addresses the customer by the wrong name and asks for an irrelevant Known Traveler Number instead of details needed to investigate missing mileage credit.,1946980
+1,1,1,2,1,The reply fabricates Black Friday deals and directs the customer to a nonexistent or unsupported link instead of stating that Delta does not offer such fares.,2494143
+3,3,3,2,2,"The reply takes the right action but needs editing for awkward grammar, especially “your flight is delay this long.”",2263966
+3,3,3,3,3,The reply is appropriate but slightly generic and could feel more personal by thanking the customer for sharing.,1229767
+1,1,3,1,1,The reply is too vague and does not address fire-related disruptions or ask the customer to DM their confirmation number and proposed airport changes for assistance.,804143
+1,1,2,2,1,It does not ask the customer to DM their confirmation number for assistance and instead makes an unsupported claim about known issues while promising an IT escalation.,312190
+3,3,3,3,3,"The reply is appropriate and safe, though it could be slightly more celebratory to match the customer’s excitement.",1010942
+2,1,1,1,1,"It addresses the customer by the wrong name and offers no specific next step, such as requesting the flight number by DM to investigate the delay.",1931254
+1,1,1,1,1,"The reply completely misreads the SkyMall-related message, addresses the wrong person, and invents an unrelated issue involving armrests and retiring the MD fleet.",688215
+1,1,2,1,1,The reply incorrectly assumes the customer has already been helped and provides no guidance on purchasing Delta Comfort+ or resolving the seat-selection issue.,573255
+1,1,2,2,1,The reply incorrectly dismisses the issue instead of asking the customer to DM the confirmation number so an agent can investigate.,62433
+2,1,3,2,2,It redirects the customer to a possibly irrelevant team instead of asking them to follow and DM their existing case number for assistance.,2570498
+3,3,3,3,3,No meaningful weakness; it warmly acknowledges the praise without adding unnecessary steps or risky claims.,2951638
+1,1,3,1,1,"The reply completely misreads the complaint, uses the wrong name, and offers no acknowledgment, apology, or DM-based help with the failed upgrade.",444597
+2,2,2,1,2,It addresses the customer by the wrong name and vaguely offers Twitter help instead of directing them to DM their confirmation number.,2925081
+1,1,3,2,1,The reply addresses a baggage issue and asks for a bag tag number instead of directing the customer to DM their booking confirmation for the canceled ticket.,2188591
+3,3,3,2,2,The reply is somewhat generic and does not clarify that the existing DM/screenshot lacks the confirmation number.,399989
+2,1,2,2,2,"It wrongly assumes the issue is check-in and offers no concrete next step, such as asking how it can help with tomorrow’s flight or requesting a DM.",2872065
+1,1,1,2,1,The reply fabricates a reserved backup flight and mischaracterizes the check-in delay as a missed connection instead of first asking whether rebooking help is needed.,1170952
+3,3,2,2,2,"The reply uses the wrong customer name, which makes an otherwise appropriate DM request feel careless.",2110773
+2,2,3,2,2,The reply is too generic and asks for a DM without requesting the confirmation number or offering disruption-specific guidance.,1635321
+1,1,1,1,1,The reply invents an unrelated weather disruption instead of addressing the customer’s complaint about Customer Care hours.,1170474
+1,1,1,2,1,"It invents an IT escalation without collecting details or offering a useful troubleshooting or DM next step, and it fails to acknowledge the customer’s Diamond achievement.",2388299
+1,1,2,2,1,The reply invents weather as the cause of the delay and does not invite the customer to share how Delta can help.,2249181
+2,1,2,2,2,"It does not directly explain that the suit may be brought as the carry-on item, and misleadingly describes the allowance as two carry-on bags rather than one carry-on plus one personal item.",698077
+2,2,3,2,2,"The reply misses the crucial warning that skipping the first leg may cause the remaining itinerary, including the return, to be canceled.",2783621
+1,1,3,1,1,The reply misreads a positive personal post as a travel disruption and offers irrelevant rebooking help instead of warmly acknowledging the share.,714856
+2,1,3,1,1,"The reply misreads a playful comment as a support issue, offering an unnecessary apology and DM request instead of a brief, friendly acknowledgment.",1339942
+2,3,1,2,2,"The biggest weakness is addressing the customer as Richard without support from the message, creating an avoidable hallucinated personal detail.",408515
+1,1,3,1,1,"The reply ignores the request for airport connection assistance and instead comments on a photo, offering no path toward help.",1617432
+1,1,3,2,1,The reply misreads a playful request for a new ticket as an existing-booking issue and unnecessarily asks for a confirmation or ticket number instead of directing the customer to Book A Trip.,104199
+1,1,1,1,1,The reply falsely assumes the customer was rebooked and says “Great!” about a delay instead of acknowledging it and offering relevant assistance.,1917168
+1,1,3,1,1,"The reply misreads an upgrade-list issue as a delay, uses the wrong name, and fails to ask for the confirmation code via DM so the case can be reviewed.",152355
+3,3,2,1,2,"The biggest weakness is addressing the customer as John, which appears incorrect and makes an otherwise appropriate reply feel careless and impersonal.",2098574
+2,1,3,2,1,"The reply stalls without clarifying which Amex Platinum card the customer has, so it does not move them toward an accurate policy answer.",1809823
+2,1,3,2,1,The reply unnecessarily asks for a DM and confirmation number instead of directly answering that same-day arriving passengers may use the Sky Club at the discounted eligible-cardholder rate.,2920835
+1,1,2,1,1,The reply ignores the customer’s pricing question and offers no verification or useful next step.,1096161
+1,1,1,1,1,The reply addresses an invented Basic Economy cancellation issue instead of directing the customer to Delta’s online complaints form.,1189765
+2,1,3,2,1,"The reply acknowledges the disruption but provides no actionable next step, such as asking the customer to DM their confirmation number so the flight can be checked.",1753621
+1,1,1,1,1,"The reply mistakes a multi-city fare-pricing complaint for a same-day flight-change question and introduces irrelevant, potentially inaccurate fee information.",1037781

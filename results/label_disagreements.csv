@@ -1,0 +1,5 @@
+thread_id,customer_text,intent_a,intent_b
+1697603,: For some reason the box to check that I would like to upgrade disappeared when I logged into my SkyMiles account. Can you tell me which checkout screen it SHOULD appear on? Thanks!,support_access_issue,loyalty_or_account
+2294496,can you answer a question about sky miles bonuses?,loyalty_or_account,policy_or_info_question
+1834786,Anti-American Denies Fallen Soldier’s Remains Be Respected With National Anthem — 'Against Company Policy' <url>,other,service_complaint_or_feedback
+1189765,please can you send me your complaints procedure,support_access_issue,policy_or_info_question
