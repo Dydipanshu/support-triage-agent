@@ -1,12 +1,26 @@
-# Delta support agent
+# Support triage agent
 
-An AI support agent for Delta Air Lines' Twitter desk, built and evaluated on the [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) dataset. Given a customer's opening tweet it:
+[![tests](https://github.com/Dydipanshu/support-triage-agent/actions/workflows/test.yml/badge.svg)](https://github.com/Dydipanshu/support-triage-agent/actions/workflows/test.yml)
+
+An AI agent for an airline's Twitter support desk (Delta Air Lines), built and evaluated on the [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) dataset. Given a customer's opening tweet it:
 
 1. classifies the intent into one of nine action-oriented labels,
 2. drafts a reply grounded in how Delta historically resolved similar messages, and
 3. decides whether the reply can be auto-posted or must go to a human, with a named reason.
 
 The system is small on purpose. Most of the work is in the evaluation: a 220-example hand-labelled golden set, two baselines, a rubric-based LLM judge, and a judge-vs-human agreement study.
+
+## Results
+
+On the 220-example golden set. 51 of the 220 messages must go to a human.
+
+| system | intent accuracy | escalation recall | unsafe auto-replies (of 51) | judge score (1 to 3) |
+|---|---|---|---|---|
+| always escalate, canned reply | 0.18 | 1.00 | 0 | 1.98 |
+| TF-IDF + keyword rules | 0.58 | 0.33 | 34 | 1.52 |
+| **this agent** | **0.84** | **0.94** | **3** | **2.39** |
+
+The agent still posts two out of three replies on its own, so the safety does not come from escalating everything. The LLM judge agrees with blind human scores at Spearman 0.72 and is never more than one point away.
 
 Headline results are in [REPORT.md](REPORT.md). The design decisions are in [DECISIONS.md](DECISIONS.md).
 
@@ -15,7 +29,7 @@ Headline results are in [REPORT.md](REPORT.md). The design decisions are in [DEC
 Requirements: Python 3.11+, [uv](https://github.com/astral-sh/uv), an OpenAI API key.
 
 ```bash
-git clone <this repo> && cd hiver-support-agent
+git clone https://github.com/Dydipanshu/support-triage-agent && cd support-triage-agent
 uv venv .venv --python 3.12 && source .venv/bin/activate
 uv pip install -e ".[dev]" scipy
 echo 'OPENAI_API_KEY=sk-...' > .env

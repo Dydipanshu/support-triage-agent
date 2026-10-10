@@ -1,5 +1,5 @@
 [project]
-name = "hiver-support-agent"
+name = "support-triage-agent"
 version = "0.1.0"
 description = "AI customer-support agent for Delta, built and evaluated on the Customer Support on Twitter dataset"
 requires-python = ">=3.11"
